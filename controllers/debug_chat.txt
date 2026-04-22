@@ -1,0 +1,12 @@
+2025-11-29 13:15:20 - Sending message: User 5, Conv 5, Msg: when i can expect my delivery
+2025-11-29 13:15:20 - Failed to insert message into DB
+2025-11-29 13:26:21 - Sending message: User 5, Conv 7, Msg: hi
+2025-11-29 13:26:21 - Failed to insert message into DB
+2025-11-29 13:26:29 - Sending message: User 5, Conv 7, Msg: hi
+2025-11-29 13:26:29 - Failed to insert message into DB
+2025-11-29 13:27:15 - Sending message: User 5, Conv 7, Msg: hi
+2025-11-29 13:27:15 - Failed to insert message into DB
+2025-11-29 13:43:38 - Sending message: User 5, Conv 7, Msg: hi
+2025-11-29 13:43:38 - Failed to insert message into DB
+2025-11-29 13:51:16 - Sending message: User 4, Conv 11, Msg: yes
+2025-11-29 13:51:16 - Failed to insert message into DB
