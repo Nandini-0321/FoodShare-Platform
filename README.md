@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Nandini-0321/FoodShare?style=for-the-badge&color=6366f1" />
-  <img src="https://img.shields.io/github/forks/Nandini-0321/FoodShare?style=for-the-badge&color=a855f7" />
-  <img src="https://img.shields.io/github/license/Nandini-0321/FoodShare?style=for-the-badge&color=ec4899" />
+  <img src="https://img.shields.io/github/stars/Nandini-0321/FoodShare-Platform?style=for-the-badge&color=6366f1" />
+  <img src="https://img.shields.io/github/forks/Nandini-0321/FoodShare-Platform?style=for-the-badge&color=a855f7" />
+  <img src="https://img.shields.io/github/license/Nandini-0321/FoodShare-Platform?style=for-the-badge&color=ec4899" />
 </p>
 
 <p align="center">
@@ -100,7 +100,7 @@ Follow these steps to get your local development environment running:
 
 ### 2️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Nandini-0321/FoodShare.git
+git clone https://github.com/Nandini-0321/FoodShare-Platform.git
 ```
 
 ### 3️⃣ Setup the Workspace
